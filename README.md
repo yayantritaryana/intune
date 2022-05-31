@@ -1,3 +1,3 @@
 ## Intune Mobile Devices Security Use Case Test
 
-This is set example use case scenario to test out protection on Microsoft Intune & Office365
+This is set use case scenario to test out protection on Microsoft Intune & Office365
